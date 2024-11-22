@@ -1,6 +1,5 @@
 package com.sparta.codekata.year2024.month11;
 
-import java.util.Collection;
 import java.util.Collections;
 
 /*
